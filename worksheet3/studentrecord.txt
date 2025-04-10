@@ -1,0 +1,27 @@
+Name : ad ksadj
+Roll no : 65
+Mark1 : 56
+Mark 2 : 76
+Mark 3 : 87
+Name : mita lekhak
+Roll no : 23
+Mark1 : 67
+Mark1 : 4
+Mark2 : 56
+Mark3 : 76
+Name : mita Lekhak
+Roll no : 23
+Mark1 : 78
+Mark1 : 45
+Mark2 : 43
+Mark3 : 54
+Name : EHE HEHE
+Roll no : 56
+Mark1 : 76
+Mark 2 : 87
+Mark 3 : 76
+Name : DJ KSDJ
+Roll no : 45
+Mark1 : 47
+Mark 2 : 87
+Mark 3 : 76

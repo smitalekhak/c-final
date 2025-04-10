@@ -1,0 +1,63 @@
+Name : Pratha Sharma
+Roll no : 23
+Mark1 : 65
+Mark2 : 76
+Mark3 : 87
+Name : Alisha
+Name : Alisha Shrestha
+Roll no : 34
+Mark1 : 67
+Mark 2 : 87
+Mark 3 : 76
+Name : Alish Shrestha
+Roll no : 23
+Mark1 : 76
+Mark 2 : 78
+Mark 3 : 65
+Name : Susmita
+Roll no : 45
+Mark1 : 45
+Mark 2 : 43
+Mark 3 : 32
+Name : Alex 
+Roll no : 43
+Mark1 : 54
+Mark 2 : 65
+Mark 3 : 65
+Name : Smita Lekhak
+Roll no : 43
+Mark1 : 54
+Mark1 : 45
+Mark2 : 65
+Mark1 : 45
+Mark2 : 65
+Mark3 : 76
+Mark 3 : 65
+Name : asmita
+Roll no : 11
+Mark1 : 76
+Mark 2 : 76
+Mark 3 : 87
+Name : gg
+Roll no : 13
+Mark1 : 43
+Mark 2 : 54
+Mark 3 : 65
+Name : Dd
+Roll no : 54
+Mark1 : 65
+Mark 2 : 76
+Mark 3 : 76
+Name : hh
+Roll no : 44
+Mark1 : 54
+Mark 2 : 76
+Mark 3 : 87
+Name : wrong
+Roll no : 101
+Mark 2 : 56
+Name : shdjka
+Roll no : 34
+Mark1 : INVALID MARK
+Mark 2 : 34
+Mark 3 : 54
